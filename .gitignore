@@ -1,0 +1,4 @@
+# Ignorar archivos de datos del Zoomcamp
+*.parquet
+*.csv
+*.gz
